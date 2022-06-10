@@ -10,3 +10,5 @@ Create a Collection Class that accepts a Sequelize Model into the constructor an
 ## [Link for Heroku_clothes](https://heba-api-server.herokuapp.com/clothes)
 ## [Link for  Actions](https://github.com/HebaAlhamaydh/api-server/actions)
 
+# UML Diagram
+![](./UML.png)
